@@ -21,7 +21,7 @@ I'm currently expanding my GitHub, I have many projects saved... where?... I don
 ---
 
 ## 🌍 Languages
-![Language proficiency](./assets/language-bars_tokyonight.svg)
+![Language proficiency](https://github.com/Beacm/languageBars/blob/main/language-bars_tokyonight_auto.svg)
 
 ## 🛠️ Tech Stack  
 
