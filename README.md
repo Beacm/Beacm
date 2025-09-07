@@ -20,7 +20,7 @@ I'm currently expanding my GitHub, I have many projects saved... where?... I don
 
 ---
 ![Language proficiency](https://github.com/Beacm/languageBars/blob/main/language-bars_tokyonight_auto.svg)
-<
+
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
