@@ -27,7 +27,7 @@ I'm currently expanding my GitHub, I have many projects saved... where?... I don
 
 ![Language proficiency](https://github.com/Beacm/Beacm/blob/main/language-bars.svg)
 
-## 🛠️ Tech Stack  
+## 🛠️ Skill
 
 ### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
