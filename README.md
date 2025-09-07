@@ -19,10 +19,8 @@ I'm currently expanding my GitHub, I have many projects saved... where?... I don
 - ☕ Runs on **coffee, code, and memes**  
 
 ---
-
-## 🌍 Languages
 ![Language proficiency](https://github.com/Beacm/languageBars/blob/main/language-bars_tokyonight_auto.svg)
-
+<
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages  
