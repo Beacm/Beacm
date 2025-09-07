@@ -19,6 +19,12 @@ I'm currently expanding my GitHub, I have many projects saved... where?... I don
 - ☕ Runs on **coffee, code, and memes**  
 
 ---
+## 🔗 Connect with me  
+
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/beacondemar)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bea-conde/)
+
+---
+
 ![Language proficiency](https://github.com/Beacm/Beacm/blob/main/language-bars.svg)
 
 ## 🛠️ Tech Stack  
@@ -71,10 +77,6 @@ I'm currently expanding my GitHub, I have many projects saved... where?... I don
 - 🔗 Microservices  
 
 ---
-## 🔗 Connect with me  
-
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/beacondemar)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bea-conde/)
 
 ## 🎉 Fun Facts  
 - I debug my code like Sherlock Holmes 🕵️‍♀️  
